@@ -17,7 +17,6 @@ import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
 
-    //database
     private lateinit var nesneler: List<String>
     private lateinit var fiiller: List<String>
     private lateinit var hedefler: List<String>
