@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hikaye Zarları</string>
+
+    <string-array name="bolumler">
+        <item>Giriş</item>
+        <item>Gelişme</item>
+        <item>Sonuç</item>
+    </string-array>
+</resources>
