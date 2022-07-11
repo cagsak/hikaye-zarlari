@@ -493,7 +493,6 @@
             android:fontFamily="serif-monospace"
             android:gravity="center"
             android:padding="3dp"
-            android:text="merhaba"
             android:textAlignment="gravity"
             app:autoSizeTextType="uniform"
             app:layout_constraintBottom_toTopOf="@+id/guideline23"
