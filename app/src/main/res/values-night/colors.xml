@@ -9,6 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green">#4CAF50</color>
 
-    <color name="buttonColor">#393939</color>
-    <color name="borderColor">#000000</color>
+    <color name="buttonColor">#FFFFFF</color>
+    <color name="borderColor">#FFFFFF</color>
 </resources>
